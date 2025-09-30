@@ -6,8 +6,8 @@ This is the Python simulator branch. This branch provides a folder with a pipeli
 2. Python 3.11.9
 
 ## Prerequisites
-1. Install Robotarium Python simulator.
-2. Install `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory appear as below:
+1. Install [Robotarium Python simulator](https://github.com/robotarium/robotarium_python_simulator).
+2. Copy `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory appear as below:
   ```
   robotarium_python_simulator/
   ├── my_tests/
