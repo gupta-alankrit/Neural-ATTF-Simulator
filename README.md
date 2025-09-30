@@ -29,7 +29,7 @@ This is the MATLAB simulator branch. This branch provides a folder with a pipeli
   └── simulation_skeleton.m
   ```
 
-## File description:
+## File description
 1. `config.json`: Contains the tunable parameters for the experiments.
 2. `env.json`: Contains the environment data for Neural ATTF -- agent names and their start positions, number of delays per agent, total number of tasks, tasks with their frequency, start time, and waypoints, and environment map with its dimensions, non-task endpoints, and static obstacles.
 3. `generate_submission.m`: Creates a folder of files inside the current working directory. These files can be uploaded to the Robotarium portal for real-world experiments.
