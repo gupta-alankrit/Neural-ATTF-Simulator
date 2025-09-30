@@ -1,0 +1,24 @@
+###############################################
+# Tunable parameters for the Hyundai Mobis Test
+###############################################
+
+# General experiment settings
+N: 6                 # Number of robots utilized for the experiment
+exp_time: 133        # Total experiment time in seconds
+
+# Arena limits in meters (Robotarium arena size: x in [-1.6,1.6], y in [-1,1])
+limits:
+  x_lim: 1.5
+  y_lim: 0.9
+
+# Background and and waypoints offset from arena center
+img_e: [0.0, 0.0]            # in meters
+waypoint_e: [0.2, 0.0]       # in meters
+
+# Controller parameters
+control_params:
+  si_x_vel_gain: 1.0         # XVelocityGain in SI dynamics
+  si_y_vel_gain: 1.0         # YVelocityGain in SI dynamics
+  uni_lin_vel_gain: 0.75     # LinearVelocityGain in Unicycle dynamics
+  uni_ang_vel_limit: 3.1416   # AngularVelocityGain in Unicycle dynamics
+  safe_rad: 0.15             # meters
