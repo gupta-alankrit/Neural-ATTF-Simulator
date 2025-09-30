@@ -7,7 +7,7 @@ This is the Python simulator branch. This branch provides a folder with a pipeli
 
 ## Prerequisites
 1. Install [Robotarium Python simulator](https://github.com/robotarium/robotarium_python_simulator).
-2. Copy `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory appear as below:
+2. Copy `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory would appear as below:
   ```
   robotarium_python_simulator/
   ├── my_tests/
@@ -24,6 +24,7 @@ This is the Python simulator branch. This branch provides a folder with a pipeli
   ├── README.md
   └── setup.py
   ```
-3. 
 
-4. 
+## Usage
+1. File description:
+  1. `config.yaml`: Contains the tunable parameters for the experiments.
