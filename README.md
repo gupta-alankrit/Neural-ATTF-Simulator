@@ -10,7 +10,8 @@ This is the Python simulator branch. This branch provides a folder with a pipeli
 2. Install `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory appear as below:
 
 # Project structure
-```my-project/
+```
+my-project/
 ├── data/
 │ ├── train.csv
 │ └── test.csv
