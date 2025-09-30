@@ -8,20 +8,22 @@ This is the Python simulator branch. This branch provides a folder with a pipeli
 ## Prerequisites
 1. Install Robotarium Python simulator.
 2. Install `my_tests` folder from this repository inside the Robotarium Python simulator. The simulator directory appear as below:
-
-# Project structure
-```
-my-project/
-├── data/
-│ ├── train.csv
-│ └── test.csv
-├── scripts/
-│ ├── preprocess.py
-│ └── train_model.py
-├── docs/
-│ └── report.md
-├── LICENSE
-└── README.md```
-
+  ```
+  robotarium_python_simulator/
+  ├── my_tests/
+  │ ├── config.yaml
+  │ ├── eng.json
+  │ ├── generate_submission.py
+  │ ├── local_script_test1.py
+  │ ├── schedule.json
+  │ ├── utility.py
+  │ └── warehouse_image.png
+  ├── robotarium_python_simulator.egg-info
+  ├── rps
+  ├── LICENSE
+  ├── README.md
+  └── setup.py
+  ```
+3. 
 
 4. 
