@@ -1,4 +1,4 @@
-# Neural-ATTF-Simulator
+# Neural-ATTF-Python-Simulator
 This is the Python simulator branch. This branch provides a folder with a pipeline for the Neural ATTF simulations using Robotarium Python simulator.
 
 ## Test Platform
